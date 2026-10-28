@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Mohamed%20Elhadad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer&descAlignY=58&descSize=20" width="100%" alt="Mohamed Elhadad">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Mohamed%20Al-hadad&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer&descAlignY=58&descSize=20" width="100%" alt="Mohamed Al-hadad">
 
 <a href="https://github.com/mo7-adad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=I+build+responsive+websites;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Bootstrap+%E2%80%A2+Tailwind+CSS;From+Figma+design+to+live+website" alt="Typing intro">
@@ -130,8 +130,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo7-adad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7-adad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7-adad&theme=tokyonight" width="100%" alt="Profile details">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo7-adad&theme=tokyonight" width="49%" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo7-adad&theme=tokyonight" width="49%" alt="Most used languages">
 </p>
 
 <p align="center">
