@@ -9,7 +9,6 @@
 <br>
 
 <a href="https://github.com/mo7-adad?tab=repositories"><img src="https://img.shields.io/badge/Projects-11+-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
-<a href="https://github.com/mo7-adad?tab=followers"><img src="https://img.shields.io/github/followers/mo7-adad?label=Followers&style=for-the-badge&logo=github&color=7C3AED" alt="Followers"></a>
 <img src="https://komarev.com/ghpvc/?username=mo7-adad&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views">
 
 </div>
